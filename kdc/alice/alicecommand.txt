@@ -1,0 +1,2 @@
+openssl enc -nosalt -aes-256-ecb -d -in Alice.txt.enc -out Alice.txt.dec -base64 -K B686ACEBC22ED770D37C5332ABC28E624440A7BC3C0024185A884228E5EEDB83
+<Alice's Master Key>
